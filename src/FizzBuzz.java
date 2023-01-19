@@ -9,7 +9,6 @@ public class FizzBuzz {
 			else if (a % 5 == 0) 
 				System.out.println("Buzz");
 			else {
-				// 課題提出
 				System.out.println(a);
 			}
 		}
